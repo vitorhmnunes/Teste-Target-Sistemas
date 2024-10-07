@@ -5,17 +5,17 @@
 Conteúdo
 ===========================================
 <!--ts-->
-  *[Questão 1](#Questão 1)
-  *[Questão 2](#Questão 2)
-  *[Questão 3](#Questão 3)
-  *[Questão 4](#Questão 4)
-  *[Questão 5](#Questão 5)
+  [Questão 1](#Questão 1)
+  [Questão 2](#Questão 2)
+  [Questão 3](#Questão 3)
+  [Questão 4](#Questão 4)
+  [Questão 5](#Questão 5)
 <!--te-->
 
 =============================================
 ## Questão 1
 
-Simples questão que apresenta um algoritmo básico usando a estrutura de repetição While
+- Simples questão que apresenta um algoritmo básico usando a estrutura de repetição While
 
 ## Questão 2
 
@@ -25,7 +25,7 @@ Simples questão que apresenta um algoritmo básico usando a estrutura de repeti
 - Contém 3 funções. 
 - A primeira função recebe o valor do usuário se certificando por meio de uma estrutura de exceção, se esse valor é válido como número inteiro. Caso seja um valor inteiro negativo, a função é encrregada por meio de uma estrutura If/Else de requisitar um valor inteiro positivo.
 - A segunda função é encarregada de verificar se o número inteiro inserido é pertencente a sequência de Fibonnacci.
-### Por último, a terceira função faz o papel de informar as saídas (se pertence ou não à sequência) ao usuário
+- Por último, a terceira função faz o papel de informar as saídas (se pertence ou não à sequência) ao usuário
 
 ## Questão 3
 
