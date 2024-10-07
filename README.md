@@ -1,18 +1,16 @@
 # Teste-Target-Sistemas
 
-## Questões referentes ao teste de estágio da empresa Target Sistemas
+Questões referentes ao teste de estágio da empresa Target Sistemas
 
-Conteúdo
-===========================================
-<!--ts-->
-  [Questão 1](#Questão 1)
-  [Questão 2](#Questão 2)
-  [Questão 3](#Questão 3)
-  [Questão 4](#Questão 4)
-  [Questão 5](#Questão 5)
-<!--te-->
+## Conteúdo
 
-=============================================
+  [Questão 1](Questão 1)
+  [Questão 2](Questão 2)
+  [Questão 3](Questão 3)
+  [Questão 4](Questão 4)
+  [Questão 5](Questão 5)
+
+
 ## Questão 1
 
 - Simples questão que apresenta um algoritmo básico usando a estrutura de repetição While
