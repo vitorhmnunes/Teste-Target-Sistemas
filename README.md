@@ -27,7 +27,7 @@ Questões referentes ao teste de estágio da empresa Target Sistemas
 
 ## Questão 3
 
-- Estrutura lógica responsável por analisar um arquivo Json referente ao faturamento de uma empresa e informar as saídas requisitas: o maior faturamento, o menor faturamento e os dias em que se faturou quantia maior que a média de faturamento mensal.
+- Estrutura lógica responsável por analisar um arquivo Json referente ao faturamento de uma empresa e informar as saídas requisitadas: o maior faturamento, o menor faturamento e os dias em que se faturou quantia maior que a média de faturamento mensal.
 
 ### Estrutura do Algoritmo
 - Por meio da biblioteca pandas o arquivo Json foi lido e transformado em um dataframe. Em seguinte, os dias com valores nulos são desconsiderados e é obtido por meio de funções do pandas o valor máximo de faturamento, o valor mínimo de faturamento e a média de faturamento mensal.
