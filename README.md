@@ -13,7 +13,7 @@ Questões referentes ao teste de estágio da empresa Target Sistemas
 
 ## Questão 1
 
-- Simples questão que apresenta um algoritmo básico usando a estrutura de repetição While
+- Simples questão que apresenta um algoritmo básico usando a estrutura de repetição While.
 
 ## Questão 2
 
