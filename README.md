@@ -21,9 +21,9 @@ Questões referentes ao teste de estágio da empresa Target Sistemas
 
 ### Estrutura do Algoritmo
 - Contém 3 funções. 
-- A primeira função recebe o valor do usuário se certificando, por meio de uma estrutura de exceção, se esse valor é válido como número inteiro. Caso seja um valor inteiro negativo, a função é encrregada por meio de uma estrutura If/Else de requisitar um valor inteiro positivo.
+- A primeira função recebe o valor do usuário se certificando, por meio de uma estrutura de exceção, se esse valor é válido como número inteiro. Caso seja um valor inteiro negativo, a função é encarregada por meio de uma estrutura If/Else de requisitar um valor inteiro positivo.
 - A segunda função é encarregada de verificar se o número inteiro inserido é pertencente a sequência de Fibonnacci.
-- Por último, a terceira função faz o papel de informar as saídas (se pertence ou não à sequência) ao usuário
+- Por último, a terceira função faz o papel de informar as saídas (se pertence ou não à sequência) ao usuário.
 
 ## Questão 3
 
@@ -44,4 +44,4 @@ Questões referentes ao teste de estágio da empresa Target Sistemas
 
 ## Questão 5
 
-- Estrutura simples responsável por inverter determinada string inserida pelo usuário
+- Estrutura simples responsável por inverter determinada string inserida pelo usuário.
